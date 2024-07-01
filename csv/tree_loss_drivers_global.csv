@@ -1,0 +1,133 @@
+iso,country_name,year,driver,tree_loss_ha
+GLO,global,2001,Commodity driven deforestation,2691587.496334861
+GLO,global,2002,Commodity driven deforestation,3405408.155001274
+GLO,global,2003,Commodity driven deforestation,3141040.6951448442
+GLO,global,2004,Commodity driven deforestation,4700815.530597509
+GLO,global,2005,Commodity driven deforestation,4208311.037314378
+GLO,global,2006,Commodity driven deforestation,3936387.8399343006
+GLO,global,2007,Commodity driven deforestation,4247114.138492578
+GLO,global,2008,Commodity driven deforestation,4203168.235442927
+GLO,global,2009,Commodity driven deforestation,4651228.308190539
+GLO,global,2010,Commodity driven deforestation,4583958.248639229
+GLO,global,2011,Commodity driven deforestation,4425232.934880374
+GLO,global,2012,Commodity driven deforestation,5867868.70175292
+GLO,global,2013,Commodity driven deforestation,3664521.432188263
+GLO,global,2014,Commodity driven deforestation,5275193.891206572
+GLO,global,2015,Commodity driven deforestation,4606512.108524905
+GLO,global,2016,Commodity driven deforestation,7224818.4595048465
+GLO,global,2017,Commodity driven deforestation,5902041.216442337
+GLO,global,2018,Commodity driven deforestation,4656296.203509429
+GLO,global,2019,Commodity driven deforestation,5060708.523413044
+GLO,global,2020,Commodity driven deforestation,4755158.686302941
+GLO,global,2021,Commodity driven deforestation,4521544.171282441
+GLO,global,2022,Commodity driven deforestation,4774582.684411281
+GLO,global,2001,Forestry,5009330.101687984
+GLO,global,2002,Forestry,5312296.117619664
+GLO,global,2003,Forestry,4876170.015517525
+GLO,global,2004,Forestry,7108328.159669629
+GLO,global,2005,Forestry,6493889.407343032
+GLO,global,2006,Forestry,6559799.06937726
+GLO,global,2007,Forestry,7063278.85651102
+GLO,global,2008,Forestry,7047369.402089365
+GLO,global,2009,Forestry,5775440.184997407
+GLO,global,2010,Forestry,6325521.631756704
+GLO,global,2011,Forestry,6318206.996145526
+GLO,global,2012,Forestry,7849189.470063662
+GLO,global,2013,Forestry,5645632.698070841
+GLO,global,2014,Forestry,6562047.73800125
+GLO,global,2015,Forestry,6024959.400228676
+GLO,global,2016,Forestry,8855163.732402146
+GLO,global,2017,Forestry,8975417.587139
+GLO,global,2018,Forestry,7517148.249142464
+GLO,global,2019,Forestry,7512256.527957333
+GLO,global,2020,Forestry,7136236.135926042
+GLO,global,2021,Forestry,7507082.740137966
+GLO,global,2022,Forestry,6696487.940256411
+GLO,global,2001,Shifting agriculture,3364435.1285059415
+GLO,global,2002,Shifting agriculture,3621322.949041804
+GLO,global,2003,Shifting agriculture,2840312.435651369
+GLO,global,2004,Shifting agriculture,3334274.6799107715
+GLO,global,2005,Shifting agriculture,3870243.293673255
+GLO,global,2006,Shifting agriculture,3503781.793523651
+GLO,global,2007,Shifting agriculture,3938102.8555463366
+GLO,global,2008,Shifting agriculture,3875587.204835079
+GLO,global,2009,Shifting agriculture,4059516.286198915
+GLO,global,2010,Shifting agriculture,4543536.992860616
+GLO,global,2011,Shifting agriculture,3548625.919433575
+GLO,global,2012,Shifting agriculture,4404263.150607842
+GLO,global,2013,Shifting agriculture,4864941.377971217
+GLO,global,2014,Shifting agriculture,6276748.272980334
+GLO,global,2015,Shifting agriculture,4805783.020080716
+GLO,global,2016,Shifting agriculture,8673664.654717568
+GLO,global,2017,Shifting agriculture,8708256.95762383
+GLO,global,2018,Shifting agriculture,6612106.3084474
+GLO,global,2019,Shifting agriculture,6119667.218396962
+GLO,global,2020,Shifting agriculture,6792488.714110154
+GLO,global,2021,Shifting agriculture,5966862.801371072
+GLO,global,2022,Shifting agriculture,5866863.355085728
+GLO,global,2001,Unknown,163569.28003305578
+GLO,global,2002,Unknown,138374.97985277115
+GLO,global,2003,Unknown,92312.17201958505
+GLO,global,2004,Unknown,155067.48692685095
+GLO,global,2005,Unknown,129082.49433917963
+GLO,global,2006,Unknown,137322.04711421768
+GLO,global,2007,Unknown,138161.90231144597
+GLO,global,2008,Unknown,141557.1196490056
+GLO,global,2009,Unknown,148274.43599911765
+GLO,global,2010,Unknown,154535.68754966604
+GLO,global,2011,Unknown,138574.29848463536
+GLO,global,2012,Unknown,227646.43225014512
+GLO,global,2013,Unknown,149756.74685993607
+GLO,global,2014,Unknown,136020.83159547127
+GLO,global,2015,Unknown,68245.46216354413
+GLO,global,2016,Unknown,115480.95659163852
+GLO,global,2017,Unknown,122210.17899081236
+GLO,global,2018,Unknown,94610.24176038793
+GLO,global,2019,Unknown,103010.58287307213
+GLO,global,2020,Unknown,121854.38445038306
+GLO,global,2021,Unknown,113735.57121011164
+GLO,global,2022,Unknown,120748.19124656689
+GLO,global,2001,Urbanization,161825.04114750205
+GLO,global,2002,Urbanization,167644.5147985133
+GLO,global,2003,Urbanization,151464.13016384363
+GLO,global,2004,Urbanization,199584.3899165088
+GLO,global,2005,Urbanization,183451.19644953328
+GLO,global,2006,Urbanization,198398.399223923
+GLO,global,2007,Urbanization,195374.60019866077
+GLO,global,2008,Urbanization,161972.59632739815
+GLO,global,2009,Urbanization,137541.10590729472
+GLO,global,2010,Urbanization,127910.32597982956
+GLO,global,2011,Urbanization,114575.6089014581
+GLO,global,2012,Urbanization,148225.75667775032
+GLO,global,2013,Urbanization,116136.76575348098
+GLO,global,2014,Urbanization,137104.88360847277
+GLO,global,2015,Urbanization,130743.205467895
+GLO,global,2016,Urbanization,198184.12988027147
+GLO,global,2017,Urbanization,224993.7045029837
+GLO,global,2018,Urbanization,192791.1493529436
+GLO,global,2019,Urbanization,159069.63809199314
+GLO,global,2020,Urbanization,151706.78555353158
+GLO,global,2021,Urbanization,145549.95214299555
+GLO,global,2022,Urbanization,136142.4422698118
+GLO,global,2001,Wildfire,1963905.1519743404
+GLO,global,2002,Wildfire,3807689.9950327785
+GLO,global,2003,Wildfire,3374061.559183016
+GLO,global,2004,Wildfire,4410648.701163785
+GLO,global,2005,Wildfire,3213314.4555812962
+GLO,global,2006,Wildfire,3314048.25520396
+GLO,global,2007,Wildfire,2805924.4944953592
+GLO,global,2008,Wildfire,3181493.560384398
+GLO,global,2009,Wildfire,2219709.0302544422
+GLO,global,2010,Wildfire,2817897.8284867164
+GLO,global,2011,Wildfire,3034007.96368518
+GLO,global,2012,Wildfire,5035126.832172049
+GLO,global,2013,Wildfire,6202273.522205225
+GLO,global,2014,Wildfire,5345598.542050672
+GLO,global,2015,Wildfire,3986086.9148523775
+GLO,global,2016,Wildfire,4607482.169334983
+GLO,global,2017,Wildfire,5445114.616835854
+GLO,global,2018,Wildfire,5676881.390296128
+GLO,global,2019,Wildfire,5219504.449428666
+GLO,global,2020,Wildfire,6846897.0521069
+GLO,global,2021,Wildfire,7019093.333162828
+GLO,global,2022,Wildfire,5224176.147626446
