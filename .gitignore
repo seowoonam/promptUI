@@ -12,9 +12,6 @@ __pycache__/
 .env
 .flaskenv
 
-# Ignore CSV data files if you don't want them version-controlled
-csv/
-
 # Ignore build artifacts and temporary files
 *.log
 *.tmp
