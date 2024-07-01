@@ -1,0 +1,59 @@
+/* Define the custom font using a relative path */
+@font-face {
+    font-family: 'NeutralStd';
+    src: url('../fonts/NeutralStd-RegularItalic.otf') format('opentype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+/* Apply the custom font to the body */
+body {
+    font-family: 'NeutralStd', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    letter-spacing: 0.5px; /* Adjust this value to your preference */
+}
+
+/* Additional global styles */
+h1 {
+    font-weight: 500;
+    text-align: left;
+    margin-top: 20px;
+    margin-left: 10px;
+    font-size: 16px;
+}
+
+textarea {
+    font-family: 'NeutralStd', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    width: calc(80% - 20px);
+    margin: 10px;
+    padding: 20px;
+    border-radius: 5px;
+    font-size: 24px;
+    letter-spacing: 0.5px;
+}
+
+button {
+    font-family: 'NeutralStd', sans-serif;
+    padding: 3px 6px;
+    cursor: pointer;
+    font-size: 14px;
+    margin-left: 10px;
+}
+
+#results {
+    margin: 20px;
+    font-size: 16px;
+}
+
+select {
+    font-family: 'NeutralStd', sans-serif;
+    padding: 3px 6px;
+    font-size: 14px;
+    margin: 0 5px;
+}
