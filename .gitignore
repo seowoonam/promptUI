@@ -1,0 +1,21 @@
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+
+# Ignore the virtual environment directory
+.venv/
+
+# Ignore IDE/editor configuration files
+.vscode/
+
+# Ignore environment configuration files
+.env
+.flaskenv
+
+# Ignore build artifacts and temporary files
+*.log
+*.tmp
+
+# Optional: If you have a local database file
+*.db
+*.sqlite
